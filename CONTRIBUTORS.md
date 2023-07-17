@@ -3893,6 +3893,8 @@
 
 - [@Jobkroon](https://github.com/jobkroongit)
 
+- [@Jobo0](https://github.com/Jobo0)
+
 - [@Jockeymini](https://github.com/JockeyMini)
 
 - [@Jodavid](https://github.com/jodvid)
@@ -4170,6 +4172,8 @@
 - [@Kadir95](https://github.com/Kadir95)
 
 - [@Kaduspiaro](https://github.com/kaduspiaro)
+
+- [@najjar-ali](https://github.com/najjar-ali)
 
 - [@Kaedennn](https://github.com/kaedennn)
 
@@ -4989,8 +4993,7 @@
 
 - [@Magdalenastachova](https://github.com/magdalenastachova)
 
-- [@Magedmohammed834](https://github.com/magedmohammed834)
--[@Vigneshwaar](https://github.com/V6g1)
+- [@Magedmohammed834](https://github.com/magedmohammed834) -[@Vigneshwaar](https://github.com/V6g1)
 - [@Maggiechudik](https://github.com/maggiechudik)
 
 - [@Magicgionson93](https://github.com/MagicGionson93)
